@@ -1,0 +1,7 @@
+--------Appointment Form--------
+Name of the Patient: jjjj
+Age: 23
+Sex: m
+Phone No.: 9999999999
+Location of the Problem: Head
+Appointment Time: 10am
